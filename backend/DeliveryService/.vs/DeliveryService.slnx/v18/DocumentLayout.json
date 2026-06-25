@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0444\u0430\u0439\u043B\u044B\\projectOnPract\\backend\\DeliveryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681B4C09-BAD4-A461-F09B-243D24C1E984}|DeliveryService.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\projectonpract\\backend\\deliveryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681B4C09-BAD4-A461-F09B-243D24C1E984}|DeliveryService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681B4C09-BAD4-A461-F09B-243D24C1E984}|DeliveryService.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\projectonpract\\backend\\deliveryservice\\models\\citydelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681B4C09-BAD4-A461-F09B-243D24C1E984}|DeliveryService.csproj|solutionrelative:models\\citydelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681B4C09-BAD4-A461-F09B-243D24C1E984}|DeliveryService.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\projectonpract\\backend\\deliveryservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681B4C09-BAD4-A461-F09B-243D24C1E984}|DeliveryService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\projectOnPract\\backend\\DeliveryService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\projectOnPract\\backend\\DeliveryService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:39:07.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityDelivery.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\projectOnPract\\backend\\DeliveryService\\Models\\CityDelivery.cs",
+              "RelativeDocumentMoniker": "Models\\CityDelivery.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\projectOnPract\\backend\\DeliveryService\\Models\\CityDelivery.cs",
+              "RelativeToolTip": "Models\\CityDelivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:38:24.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\projectOnPract\\backend\\DeliveryService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\projectOnPract\\backend\\DeliveryService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T08:36:49.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
