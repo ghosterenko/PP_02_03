@@ -26,3 +26,4 @@ C:\файлы\projectOnPract\backend\PriceService\obj\Debug\net8.0\refint\PriceS
 C:\файлы\projectOnPract\backend\PriceService\obj\Debug\net8.0\PriceService.pdb
 C:\файлы\projectOnPract\backend\PriceService\obj\Debug\net8.0\PriceService.genruntimeconfig.cache
 C:\файлы\projectOnPract\backend\PriceService\obj\Debug\net8.0\ref\PriceService.dll
+C:\файлы\projectOnPract\backend\PriceService\obj\Debug\net8.0\PriceService.sourcelink.json

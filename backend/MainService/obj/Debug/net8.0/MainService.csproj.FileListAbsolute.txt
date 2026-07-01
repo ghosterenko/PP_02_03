@@ -26,3 +26,4 @@ C:\файлы\projectOnPract\backend\MainService\obj\Debug\net8.0\refint\MainSer
 C:\файлы\projectOnPract\backend\MainService\obj\Debug\net8.0\MainService.pdb
 C:\файлы\projectOnPract\backend\MainService\obj\Debug\net8.0\MainService.genruntimeconfig.cache
 C:\файлы\projectOnPract\backend\MainService\obj\Debug\net8.0\ref\MainService.dll
+C:\файлы\projectOnPract\backend\MainService\obj\Debug\net8.0\MainService.sourcelink.json

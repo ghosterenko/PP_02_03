@@ -26,3 +26,4 @@ C:\файлы\projectOnPract\backend\BonusService\obj\Debug\net8.0\refint\BonusS
 C:\файлы\projectOnPract\backend\BonusService\obj\Debug\net8.0\BonusService.pdb
 C:\файлы\projectOnPract\backend\BonusService\obj\Debug\net8.0\BonusService.genruntimeconfig.cache
 C:\файлы\projectOnPract\backend\BonusService\obj\Debug\net8.0\ref\BonusService.dll
+C:\файлы\projectOnPract\backend\BonusService\obj\Debug\net8.0\BonusService.sourcelink.json

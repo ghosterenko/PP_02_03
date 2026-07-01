@@ -123,3 +123,4 @@ C:\файлы\projectOnPract\backend\DeliveryService\bin\Debug\net8.0\runtimes\w
 C:\файлы\projectOnPract\backend\DeliveryService\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\файлы\projectOnPract\backend\DeliveryService\obj\Debug\net8.0\DeliveryService.csproj.AssemblyReference.cache
 C:\файлы\projectOnPract\backend\DeliveryService\obj\Debug\net8.0\Delivery.C031E64A.Up2Date
+C:\файлы\projectOnPract\backend\DeliveryService\obj\Debug\net8.0\DeliveryService.sourcelink.json

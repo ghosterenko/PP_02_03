@@ -26,3 +26,4 @@ C:\файлы\projectOnPract\backend\DiscountService\obj\Debug\net8.0\refint\Dis
 C:\файлы\projectOnPract\backend\DiscountService\obj\Debug\net8.0\DiscountService.pdb
 C:\файлы\projectOnPract\backend\DiscountService\obj\Debug\net8.0\DiscountService.genruntimeconfig.cache
 C:\файлы\projectOnPract\backend\DiscountService\obj\Debug\net8.0\ref\DiscountService.dll
+C:\файлы\projectOnPract\backend\DiscountService\obj\Debug\net8.0\DiscountService.sourcelink.json
