@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Калькулятор модульного дома</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>🏗️ Калькулятор модульного дома</h1>
+        <p class="subtitle">Расчёт стоимости дома или бани под ключ</p>
+
+        <div class="form-group">
+            <label>Площадь (м²)</label>
+            <input type="number" id="area" value="50" />
+        </div>
+
+        <div class="form-group">
+            <label>Тип строения</label>
+            <select id="type">
+                <option value="Дом">Дом</option>
+                <option value="Баня">Баня</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Город доставки</label>
+            <select id="city">
+                <option value="Екатеринбург">Екатеринбург</option>
+                <option value="Нижний Тагил">Нижний Тагил</option>
+                <option value="Каменск-Уральский">Каменск-Уральский</option>
+                <option value="Первоуральск">Первоуральск</option>
+                <option value="Серов">Серов</option>
+                <option value="Новоуральск">Новоуральск</option>
+                <option value="Пермь">Пермь</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Промокод</label>
+            <input type="text" id="promo" value="" />
+        </div>
+
+        <button id="calculateBtn">🔥 Рассчитать стоимость</button>
+
+        <hr />
+        <h3>📊 Детализация расчёта</h3>
+        <div id="result">
+            <div class="result-item">
+                <span>💰 Базовая цена:</span>
+                <span id="basePrice">—</span>
+            </div>
+            <div class="result-item">
+                <span>🏷️ Скидка:</span>
+                <span id="discountPercent">—</span>
+            </div>
+            <div class="result-item">
+                <span>🚚 Доставка и монтаж:</span>
+                <span id="delivery">—</span>
+            </div>
+            <div class="result-item">
+                <span>⭐ Бонусные баллы:</span>
+                <span id="bonus">—</span>
+            </div>
+            <div class="result-item total">
+                <span>💳 ИТОГО К ОПЛАТЕ:</span>
+                <span id="total">—</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
