@@ -29,10 +29,11 @@ using (var scope = app.Services.CreateScope())
 
 app.MapGet("/api/delivery", async (string city, AppDbContext db) =>
 {
-
+    // Ищем город в базе данных
     var cityData = await db.Cities.FirstOrDefaultAsync(c => c.City == city);
-
+     // Если город найден — берём цену доставки, иначе 40000
     int price = cityData?.DeliveryPrice ?? 40000;
+    // Возвращаем стоимость доставки
     return new { delivery = price };
 });
 
