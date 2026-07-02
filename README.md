@@ -1,4 +1,4 @@
-# SegmentDomProject
+# CalculateProjectModule
 
 Микросервисная система для расчёта стоимости модульных домов и бань
 
